@@ -6,6 +6,7 @@
 [![NPM Downloads][npm-downloads-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
 [![Test Coverage][coveralls-image]][coveralls-url]
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fphpjsnerd%2Fconnect.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fphpjsnerd%2Fconnect?ref=badge_shield)
 
 </div>
 
@@ -293,3 +294,6 @@ The current lead maintainer is [Douglas Christopher Wilson](https://github.com/d
 [npm-version-image]: https://badgen.net/npm/v/connect
 [travis-image]: https://badgen.net/travis/senchalabs/connect/master
 [travis-url]: https://travis-ci.org/senchalabs/connect
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fphpjsnerd%2Fconnect.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fphpjsnerd%2Fconnect?ref=badge_large)
